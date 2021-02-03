@@ -1,5 +1,5 @@
-# pH-sensor-Data-Particle.io-
-Code used to collect pH sensor data using the particle.io boards
+# pH-sensor-Data-Particle.io
+Code used to log pH sensor data using the particle.io boards
 
 The two sensors were: 
 1. Sentron ISFET pH-sensor (SPI Data Protocol)
